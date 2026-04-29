@@ -7,6 +7,7 @@ import EmbeddingJs from "./Pages/reactbasics/03EmbeddingJs";
 import Array from "./Pages/reactbasics/04Array";
 import SingleObject from "./Pages/reactbasics/05SingleObject";
 import MUltipleObject from "./Pages/reactbasics/06MultipleObject";
+import Events from "./Pages/reactbasics/07Events";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -18,5 +19,6 @@ root.render(
     <Array />
     <SingleObject />
     <MUltipleObject />
+    <Events/>
   </React.StrictMode>,
 );
