@@ -6,19 +6,19 @@ export default function MUltipleObject() {
       name: "thrishika",
       age: 21,
       studied: "ACET",
-      location: "thuckalay",
+      location: "thuckalay"
     },
     {
       name: "aslin",
       age: 20,
       studied: "amrita",
-      location: "Nagercoil",
+      location: "Nagercoil"
     },
     {
-      name: "thrishika",
+      name: "thrisha",
       age: 21,
-      studied: "ACET",
-      location: "thuckalay",
+      studied: "GHSS",
+      location: "thuckalay"
     },
   ];
 
