@@ -11,8 +11,6 @@ export default function TopPerformers(){
             image :ChessImages,
         }
     ]
-
-
     return <div>
         <h1><u>TopPerformers</u></h1>
         {   
