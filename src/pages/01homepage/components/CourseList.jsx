@@ -3,9 +3,7 @@ export default function CourseList() {
 
   return (
     <div>
-      <h1>
-        <u>Courses</u>
-      </h1>
+      <h1><u>Courses</u></h1>
       <nav>
         <ul>
           {Courses.map((value, key) => (
