@@ -1,0 +1,22 @@
+[
+    {
+        "name":"thrishika",
+        "age": 21,
+        "course": "React"
+    },
+    {
+        "name":"thrisha",
+        "age": 21,
+        "course": "Account"
+    },
+    {
+        "name":"thiru",
+        "age": 23,
+        "course": "electrical"
+    },
+    {
+        "name":"mathi",
+        "age": 26,
+        "course": "tally"
+    }
+]
