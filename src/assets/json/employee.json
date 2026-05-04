@@ -1,0 +1,9 @@
+{
+    "name": "thrishika",
+    "age": 21,
+    "work": "ghss",
+    "location": "chennai",
+    "address":{
+        "street": "1st street"
+    }
+}
