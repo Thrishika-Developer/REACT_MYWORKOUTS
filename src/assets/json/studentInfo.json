@@ -1,21 +1,21 @@
 [
     {
-        "name":"thrishika",
+        "name": "thrishika",
         "age": 21,
         "course": "React"
     },
     {
-        "name":"thrisha",
+        "name": "thrisha",
         "age": 21,
         "course": "Account"
     },
     {
-        "name":"thiru",
+        "name": "thiru",
         "age": 23,
         "course": "electrical"
     },
     {
-        "name":"mathi",
+        "name": "mathi",
         "age": 26,
         "course": "tally"
     }

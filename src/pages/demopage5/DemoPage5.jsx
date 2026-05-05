@@ -1,11 +1,12 @@
 import React, { useState } from "react";
-import studentData from "../assets/json/studentInfo.json"
+import StudentData from "../../assets/json/studentInfo.json"
 
 export default function DemoPage5(){
-    const [studentInfo,setStudentInfo]= useState(studentData)
+    const [studentInfo,setStudentInfo]= useState(StudentData)
+    
     const addNewStudent = ()=>{
-        setStudentInfo([
-            ...setStudentInfo,{
+        // console.log(studentInfo)
+        setStudentInfo([...studentInfo,{
                 name : "Ramesh",
                 age : 28,
                 course : "javascript"
@@ -13,15 +14,16 @@ export default function DemoPage5(){
         ])
     }
     const handleUpdate =(profileIndex)=>{
-        console.log(profileIndex)
+        // console.log(profileIndex)
         const updateInfo = studentInfo.map((value,index)=>{
-            console.log(index)
-            if(index==profileIndex){
+          
+            if(index===profileIndex){
                 value.name ="taj"
                 value.age =22
                 value.course = "js"
             }
             return value
+              
         })
         setStudentInfo(updateInfo)
     }

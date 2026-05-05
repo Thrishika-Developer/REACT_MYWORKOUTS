@@ -48,22 +48,22 @@
 //     </div>
 // }
 //--------------------------------------------------------------------------
-import { useState } from "react";
-export default function DemoPage1(){
+// import { useState } from "react";
+// export default function DemoPage1(){
 
-    const [candidateName,setCandidateName]=useState("thrishika")
-    const[candidateAge,setCandidateAge]=useState(21)
-    const[candidateScore,setCandidateScore]=useState(0)
+//     const [candidateName,setCandidateName]=useState("thrishika")
+//     const[candidateAge,setCandidateAge]=useState(21)
+//     const[candidateScore,setCandidateScore]=useState(0)
 
-    return <div>
-        <p>CandidateName :{candidateName}</p>
-        <button onClick={()=>setCandidateName("thrisha")}>ChangeName</button>
+//     return <div>
+//         <p>CandidateName :{candidateName}</p>
+//         <button onClick={()=>setCandidateName("thrisha")}>ChangeName</button>
 
-        <p>CandidateAge :{candidateAge}</p>
-        <button onClick={()=>setCandidateAge(22)}>ChangeAge</button>
+//         <p>CandidateAge :{candidateAge}</p>
+//         <button onClick={()=>setCandidateAge(22)}>ChangeAge</button>
 
-        <p>CandidateScore:{candidateScore}</p>
-        {/* <button onClick={()=>setCandidateScore(candidateScore+1)}>Change Score</button> */}
-        <button onClick={()=>setCandidateScore(prevstate=>prevstate+1)}>Change Score</button>
-    </div>
-}
+//         <p>CandidateScore:{candidateScore}</p>
+//         {/* <button onClick={()=>setCandidateScore(candidateScore+1)}>Change Score</button> */}
+//         <button onClick={()=>setCandidateScore(prevstate=>prevstate+1)}>Change Score</button>
+//     </div>
+// }
