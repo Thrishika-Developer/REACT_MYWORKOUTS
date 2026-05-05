@@ -1,46 +1,46 @@
 [
     {
-        "code":"veg",
+        "name":"veg",
         "food": "Idli"
     },
     
     {
-        "code":"veg",
+        "name":"veg",
         "food": "Dosa"
     },
     
     {
-        "code":"veg",
+        "name":"veg",
         "food": "Pongal"
     },
     
     {
-        "code":"veg",
+        "name":"veg",
         "food": "Sambar"
     },
     
     {
-        "code":"veg",
+        "name":"veg",
         "food": "Chapati"
     },
     {
-        "code":"Non-veg",
+        "name":"Non-veg",
         "food":"Egg curry"
     },
     {
-        "code":"Non-veg",
+        "name":"Non-veg",
         "food":"Chicken Biriyani"
     },
     {
-        "code":"Non-veg",
+        "name":"Non-veg",
         "food":"Egg Biriyani"
     },
     {
-        "code":"Non-veg",
+        "name":"Non-veg",
         "food":"Fish Fry"
     },
     {
-        "code":"Non-veg",
+        "name":"Non-veg",
         "food":"Mutton Biriyani"
     }
 

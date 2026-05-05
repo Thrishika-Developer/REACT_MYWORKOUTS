@@ -1,0 +1,14 @@
+[
+    {
+        "statecode":"TN",
+        "stateName": "Tamilnadu"
+    },
+     {
+        "statecode":"KL",
+        "stateName": "Kerala"
+    },
+     {
+        "statecode":"AP",
+        "stateName": "Andhra"
+    }
+]

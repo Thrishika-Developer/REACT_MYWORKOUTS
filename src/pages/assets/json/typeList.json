@@ -1,0 +1,11 @@
+[
+    {
+        "name":"veg",
+        "type":"vegetarian"   
+    },
+    {
+        "name":"Non-veg",
+        "type":"Non-Vegetarian"   
+
+    }
+]

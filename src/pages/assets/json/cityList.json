@@ -1,0 +1,38 @@
+[
+     {
+        "statecode":"TN",
+        "city": "Chennai"
+    },
+    {
+        "statecode":"TN",
+        "city": "Madurai"
+    },
+    {
+        "statecode":"TN",
+        "city": "Coimbatore"
+    },
+    {
+        "statecode":"KL",
+        "city": "Thiruvandrum"
+    },
+    {
+        "statecode":"KL",
+        "city": "Alapuzha"
+    },
+    {
+        "statecode":"KL",
+        "city": "Sabarimala"
+    },
+    {
+        "statecode":"AP",
+        "city": "thirupathi"
+    },
+    {
+        "statecode":"AP",
+        "city": "vijawada"
+    },
+    {
+        "statecode":"AP",
+        "city": "guntur"
+    }
+]
