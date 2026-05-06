@@ -6,7 +6,9 @@ import ReactDOM from 'react-dom/client';
 // import DemoPage4 from './pages/DemoPage4';
 // import DemoPage5 from "../src/pages/demopage5/DemoPage5"
 // import Counter from './pages/demoPage6/props_callback/Counter';
-import DemoPage7 from './pages/demopage7/Proper_web/DemoPage7';
+// import DemoPage7 from './pages/demopage7/Proper_web/DemoPage7';
+// import Counter01 from './Notes/Counter01';
+import MultipleState02 from './Notes/MultipleState02';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -18,7 +20,10 @@ root.render(
    {/* <DemoPage4/> */}
    {/* <DemoPage5/> */}
    {/* <Counter/> */}
-   <DemoPage7/>
+   {/* <DemoPage7/> */}
+   {/* <Counter01/> */}
+   <MultipleState02/>
+   
   </React.StrictMode>
 );
 
