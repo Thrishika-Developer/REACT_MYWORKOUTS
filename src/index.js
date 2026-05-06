@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 // import AddList from './pages/tasks/AddList';
 import Onclick from './pages/Notes/Onclick01';
 import ControlledandUncontrolled02 from './pages/Notes/ControlledandUncontrolled02';
+import StateandStateless03 from './pages/Notes/StateandStateless03';
 // import FootSelector from './pages/tasks/FoodSelector';
 
 // import NameList from './pages/a_events/NameList';
@@ -20,7 +21,8 @@ root.render(
       {/* <FootSelector/> */}
       {/* <AddList/> */}
       {/* <Onclick/> */}
-      <ControlledandUncontrolled02/>
+      {/* <ControlledandUncontrolled02/> */}
+      <StateandStateless03 name="thrishika"/>
 
   </React.StrictMode>
 );
