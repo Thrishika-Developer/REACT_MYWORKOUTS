@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import AddList from './pages/tasks/AddList';
+// import AddList from './pages/tasks/AddList';
+import Onclick from './pages/Notes/Onclick01';
+import ControlledandUncontrolled02 from './pages/Notes/ControlledandUncontrolled02';
 // import FootSelector from './pages/tasks/FoodSelector';
 
 // import NameList from './pages/a_events/NameList';
@@ -16,7 +18,9 @@ root.render(
       {/* <NameList/> */}
       {/* <Dropdown/> */}
       {/* <FootSelector/> */}
-      <AddList/>
+      {/* <AddList/> */}
+      {/* <Onclick/> */}
+      <ControlledandUncontrolled02/>
 
   </React.StrictMode>
 );
