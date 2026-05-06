@@ -1,0 +1,42 @@
+[
+    {
+        "fieldLabel":"username",
+        "fieldType" : "text",
+        "fieldName":"username",
+        "fieldId": "username",
+        "fieldClass":"",
+         "fieldDefaultValue":"",
+         "fieldCheckBoxLabel":""
+
+    },
+     {
+        "fieldLabel":"password",
+        "fieldType" : "password",
+        "fieldName":"password",
+        "fieldId": "password",
+        "fieldClass":"",
+         "fieldDefaultValue":"",
+         "fieldCheckBoxLabel":""
+
+    },
+     {
+        "fieldLabel":"",
+        "fieldType" : "checkbox",
+        "fieldName":"checkbox",
+        "fieldId": "checkbox",
+        "fieldClass":"",
+         "fieldDefaultValue":"",
+         "fieldCheckBoxLabel":"all terms an condition under checked"
+
+    },
+     {
+        "fieldLabel":"",
+        "fieldType" : "submit",
+        "fieldName":"submit",
+        "fieldId": "submit",
+        "fieldClass":"",
+         "buttonText":"Login",
+         "fieldCheckBoxLabel":""
+
+    }
+]
