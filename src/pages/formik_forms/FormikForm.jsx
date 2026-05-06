@@ -4,8 +4,8 @@ export default function FormikForm(){
     return <div>
         <Formik 
         initialValues ={{
-            username: "",
-            password: ""
+            username: "thrishiak",
+            password: "33"
         }}
         onSubmit={(values)=>{
             console.log("Form is submitted",values)
