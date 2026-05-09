@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "foodName": "Idli",
+    "foodType": "Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 2,
+    "foodName": "Dosa",
+    "foodType": "Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 3,
+    "foodName": "pongal",
+    "foodType": "Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 4,
+    "foodName": "Appam",
+    "foodType": "Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 5,
+    "foodName": "puttu",
+    "foodType": "Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 6,
+    "foodName": "Fish Curry",
+    "foodType": "Non-Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 7,
+    "foodName": "Egg Curry",
+    "foodType": "Non-Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 8,
+    "foodName": "Mutton Biriyani",
+    "foodType": "Non-Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 9,
+    "foodName": "Mutton sukka",
+    "foodType": "Non-Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+  {
+    "id": 10,
+    "foodName": "kari Dosa",
+    "foodType": "Non-Veg",
+    "foodCountry": "Tamil Nadu"
+  },
+
+  {
+    "id":11,
+    "foodName":"curd Rice",
+    "foodType": "Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":12,
+    "foodName":"Tomato Rice",
+    "foodType": "Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":13,
+    "foodName":" Rice",
+    "foodType": "Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":14,
+    "foodName":"Coconut Rice",
+    "foodType": "Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":15,
+    "foodName":"Sambar Rice",
+    "foodType": "Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":16,
+    "foodName":"kerala chicken curry",
+    "foodType": "Non-Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":17,
+    "foodName":"Beaf fry",
+    "foodType": "Non-Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":18,
+    "foodName":"egg roast",
+    "foodType": "Non-Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":19,
+    "foodName":"kappa fish curry",
+    "foodType": "Non-Veg",
+    "foodCountry":"kerala"
+  },
+   {
+    "id":20,
+    "foodName":"biriyani with chicken",
+    "foodType": "Non-Veg",
+    "foodCountry":"kerala"
+  },
+    {
+    "id":21,
+    "foodName":"Dhokla",
+    "foodType": "Veg",
+    "foodCountry":"Gujarat"
+  },
+    {
+    "id":22,
+    "foodName":"Thepla",
+    "foodType": "Veg",
+    "foodCountry":"Gujarat"
+  },
+    {
+    "id":23,
+    "foodName":"kadhi",
+    "foodType": "Veg",
+    "foodCountry":"Gujarat"
+  },
+    {
+    "id":24,
+    "foodName":"Muthiya",
+    "foodType": "Veg",
+    "foodCountry":"Gujarat"
+  },
+    {
+    "id":25,
+    "foodName":"Dal Dhokli",
+    "foodType": "Veg",
+    "foodCountry":"Gujarat"
+  },
+    {
+    "id":26,
+    "foodName":"Keema",
+    "foodType": "Non-Veg",
+    "foodCountry":"Gujarat"
+  },
+  {
+    "id":27,
+    "foodName":"prawn curry",
+    "foodType": "Non-Veg",
+    "foodCountry":"Gujarat"
+  },
+  {
+    "id":28,
+    "foodName":"fish fry",
+    "foodType": "Non-Veg",
+    "foodCountry":"Gujarat"
+  },
+  {
+    "id":29,
+    "foodName":"Tandoori chicken",
+    "foodType": "Non-Veg",
+    "foodCountry":"Gujarat"
+  },
+  {
+    "id":30,
+    "foodName":"Mutton rice",
+    "foodType": "Non-Veg",
+    "foodCountry":"Gujarat"
+  }
+
+
+]
