@@ -1,4 +1,10 @@
 .title{
     background-color: green;
     color: white;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+p{
+    margin: 30px;
 }

@@ -33,6 +33,16 @@ export default function Header(){
                     <Link to ="/contact">Contact</Link>
                 
             </div>
+            <div className="nav-item">
+
+                <Link to="/blog">Blog</Link>
+                
+            </div>
+            <div className="nav-item">
+
+                <Link to="/login">Login</Link>
+                
+            </div>
         </div>
     </div>
 }

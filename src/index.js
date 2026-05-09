@@ -8,10 +8,7 @@ import MainRoute from './pages/router/MainRoute';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <HomePage/> */}
-    {/* <AboutPage/> */}
-    {/* <ContactPage/> */}
-    {/* <BlogPage/> */}
+   
     <MainRoute/>
    
   </React.StrictMode>

@@ -8,9 +8,7 @@ export default function BlogPage(){
     
 
     return  <div>
-        <div className="container">
-        <Button variant="primary">click me</Button> 
-        </div>
+        <hr />
         <div>
             <Button variant="secondary" onClick={handleShow}>Open model</Button>
             <Modal show={show} onHide={handleClose} style={{background:"green"}}>

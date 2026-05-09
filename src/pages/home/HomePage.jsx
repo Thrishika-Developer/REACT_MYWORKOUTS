@@ -4,7 +4,7 @@ export default function HomePage() {
     <div>
       <h1 className={styles.title}>Homepage</h1>
       <p style={{color:"red",fontSize:"20px"}}>
-        welcome to react
+        welcome to react!!!
       </p>
     </div>
   );

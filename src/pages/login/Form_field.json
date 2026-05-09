@@ -1,0 +1,27 @@
+[
+    {
+        "fieldType":"text",
+        "fieldId":"username",
+        "fieldName":"username",
+        "fieldClass":"form-control",
+        "fieldLabel":"username",
+        "field-manitory":true
+    },
+    {
+        "fieldType":"password",
+        "fieldId":"password",
+        "fieldName":"password",
+        "fieldClass":"form-control",
+        "fieldLabel":"password",
+        "field-manitory":true
+    },
+    {
+        "fieldType":"submit",
+        "fieldId":"submit",
+        "fieldName":"login",
+        "fieldValue":"Login",
+        "fieldClass":"form-control",
+        "fieldLabel":"",
+        "field-manitory":true
+    }
+]
