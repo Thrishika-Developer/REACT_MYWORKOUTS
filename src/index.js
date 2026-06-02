@@ -10,6 +10,8 @@ import Example01 from './notes/Example01';
 import ClassComponet from './notes/ClassComponet02';
 import FunctionComponent03 from './notes/FunctionComponet03';
 import ReuableComponent from './notes/ReusableComponent';
+import App from './components/App';
+import FunctionComponent from './components/FunctionComponent';
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -34,7 +36,10 @@ root.render(
     <FunctionComponent03/> */}
 
     {/* <ReuableComponent/> */}
-     <ReuableComponent text="login"/>
-       <ReuableComponent text="submit"/>
+     {/* <ReuableComponent text="login"/>
+       <ReuableComponent text="submit"/> */}
+      {/* <App/> */}
+      <FunctionComponent text="hello"/>
+      <FunctionComponent text="login"/>
   </React.StrictMode>
 );
