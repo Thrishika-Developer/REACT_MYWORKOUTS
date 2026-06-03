@@ -9,6 +9,9 @@ import ReactDOM from 'react-dom/client';
 // import DemoPage7 from './pages/demopage7/Proper_web/DemoPage7';
 // import Counter01 from './Notes/Counter01';
 import MultipleState02 from './Notes/MultipleState02';
+import LikeButton from './components/LikeButton.';
+import DarkMode from './components/DarkMode';
+import Card from './components/Card';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -22,7 +25,10 @@ root.render(
    {/* <Counter/> */}
    {/* <DemoPage7/> */}
    {/* <Counter01/> */}
-   <MultipleState02/>
+   {/* <MultipleState02/> */}
+   {/* <LikeButton/> */}
+   {/* <DarkMode/> */}
+   <Card/>
    
   </React.StrictMode>
 );
