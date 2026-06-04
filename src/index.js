@@ -28,7 +28,7 @@ root.render(
    {/* <MultipleState02/> */}
    {/* <LikeButton/> */}
    {/* <DarkMode/> */}
-   <Card/>
+   {/* <Card/> */}
    
   </React.StrictMode>
 );
