@@ -12,6 +12,7 @@ import MultipleState02 from './Notes/MultipleState02';
 import LikeButton from './components/LikeButton.';
 import DarkMode from './components/DarkMode';
 import Card from './components/Card';
+import ProfileCard from './components/ProfileCard';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -29,6 +30,7 @@ root.render(
    {/* <LikeButton/> */}
    {/* <DarkMode/> */}
    {/* <Card/> */}
+   <ProfileCard/>
    
   </React.StrictMode>
 );
