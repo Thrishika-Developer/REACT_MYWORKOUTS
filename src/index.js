@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import UseEffectHook from './Notes/UseEffectHook';
 import ApiExample from './pages/ApiExample';
 import Example from './pages/side_effect/Example';
+import App from './components/App';
 // import ReactComponent from './Notes/ReactComponent';
 
 
@@ -12,7 +13,8 @@ root.render(
     {/* <ReactComponent/> */}
     {/* <UseEffectHook/> */}
     {/* <ApiExample/> */}
-    <Example/>
+    {/* <Example/> */}
+    <App/>
   </React.StrictMode>
 );
 
